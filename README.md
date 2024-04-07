@@ -7,10 +7,10 @@ I am Farid Akanda.
 - I'm interested on competitive programming and learing new data structures and algorithms.
 - I'm also join most of the codechef and codeforces online contest every week.
 
-#skills:
-#Language: 
+# Skills:
+# Language: 
 -C/C++, Python, Javascript and SQL
-#Tools & Technologies:
+# Tools & Technologies:
 -Django, Next.js , PostgreSQL, Git, Linux, PostmanAPI etc.
 
 
