@@ -13,11 +13,7 @@ I am Farid Akanda.
 ### Tools & Technologies:
 -Django, Next.js , PostgreSQL, Git, Linux, PostmanAPI etc.
 
-# Contacts: 
-[faridakanda1729@gmail.com](faridakanda1729@gmail.com)
 
-
-[X](https://twitter.com/Farid_Akanda1)
 
 Feel free to reach out if you have any questions!
 
