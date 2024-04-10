@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to my Github page!
-I am Farid Akanda.
+I'm Farid, computer programmer and full stack developer living in Mymensingh, Bangladesh.
 
 
 - 🔭 I’m currently working on Django, Next.js and PostgreSQL
@@ -9,13 +9,14 @@ I am Farid Akanda.
 
 # Skills:
 ### Language: 
--C/C++, Python, Javascript and SQL
+- C/C++, Python, Javascript and SQL
 ### Tools & Technologies:
--Django, Next.js , PostgreSQL, Git, Linux, PostmanAPI etc.
+- Django, Next.js , PostgreSQL, Git, Linux, PostmanAPI etc.
 
 
 
-### Feel free to reach out if you have any questions!
+# Contact Me
+[You can reach me at](faridakanda1729@gmail.com)
 
 
 
