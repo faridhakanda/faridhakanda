@@ -17,6 +17,8 @@ I'm Farid, computer programmer and full stack developer living in Mymensingh, Ba
 
 # Contact Me
 [You can reach me at](faridakanda1729@gmail.com)
+You can reach me at faridakanda1729@gmail.com
+
 
 
 
