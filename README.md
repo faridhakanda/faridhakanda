@@ -11,7 +11,7 @@ I'm Farid, computer programmer and full stack developer living in Mymensingh, Ba
 ### Language: 
 - C/C++, Python, Javascript and SQL
 ### Tools & Technologies:
-- Django, Next.js, RestAPI, PostgreSQL, Git, Linux, PostmanAPI etc.
+- TailwindCSS, Next.js, Django, RestAPI, PostgreSQL, Git, Linux, PostmanAPI etc.
 
 
 
