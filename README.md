@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to my Github page!
-I'm Farid, computer programmer and full stack developer living in Mymensingh, Bangladesh.
+I'm Farid, computer programmer and full stack developer interested with data science and machine learning living in Mymensingh, Bangladesh.
 
 
 - 🔭 I’m currently working on Django, Next.js and PostgreSQL
